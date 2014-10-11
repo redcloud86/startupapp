@@ -1,0 +1,1 @@
+json.extract! @profile, :id, :first_name, :last_name, :picture, :country, :phone, :dob, :tagline, :info, :website, :twitter, :facebook, :linkedin, :google_plus, :user_id, :city, :created_at, :updated_at
